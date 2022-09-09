@@ -1,7 +1,7 @@
 # Mining-Rubisco-kinetics
 
 
-The google colab notebooks for predicting land plant Rubisco kinetics will be available here shortly:
+The google colab notebooks for predicting land plant Rubisco kinetics are available here:
 
 Pretrained models:
 
