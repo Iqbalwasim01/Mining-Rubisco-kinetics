@@ -9,4 +9,4 @@ Obtain Kcat predictions for land plant Rubiscos: https://colab.research.google.c
 
 Obtain Kc predictions for land plant Rubiscos:https://colab.research.google.com/drive/1ArJ741hDZmuZOfaqxkwSL2JIcAo3JH_A?usp=sharing 
 
-Obtain Sc/o predictions for land plant Rubiscos: 
+Obtain Sc/o predictions for land plant Rubiscos: https://colab.research.google.com/drive/1CP5JPVbpU8H6KWQ_j-zH-woP8U5AVTE9?usp=sharing 
