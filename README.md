@@ -5,7 +5,7 @@ The google colab notebooks for predicting land plant Rubisco kinetics are availa
 
 Pretrained models:
 
-Obtain Kcat predictions for land plant Rubiscos: https://colab.research.google.com/drive/18_BAKCXb2PHI1jMmnYDqMlUvPGQhhWqh?usp=sharing
+Obtain Kcat predictions for land plant Rubiscos: https://colab.research.google.com/drive/1X-Xh5ZT1FaiFvXym9oklJ6ku7NFdvUJT?usp=sharing
 
 Obtain Kc predictions for land plant Rubiscos: https://colab.research.google.com/drive/1ArJ741hDZmuZOfaqxkwSL2JIcAo3JH_A?usp=sharing 
 
