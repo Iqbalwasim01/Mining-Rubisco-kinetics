@@ -1,6 +1,6 @@
 # Mining-Rubisco-kinetics
 
-If using this tool in your research. Please cite the publication: 
+If using this tool for your research. Please cite the publication: 
 
 Wasim A Iqbal, Alexei Lisitsa, Maxim V Kapralov, Predicting plant Rubisco kinetics from RbcL sequence data using machine learning, Journal of Experimental Botany, 2022;, erac368, https://doi.org/10.1093/jxb/erac368
 
